@@ -1,3 +1,7 @@
+# Para o programa compilar corretamente, instalar as bibliotecas pelo terminal com os comandos:
+# pip install gtts
+# pip install kivy
+
 import random
 import os
 from kivy.core.audio import SoundLoader
